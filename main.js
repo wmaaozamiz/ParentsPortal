@@ -14,6 +14,10 @@ function myFunction()
     {
         window.location.href="studentinfo/g9aparebj.html";
     }
+    if(un=="Reda" && pw=="09051709539")
+    {
+        window.location.href="https://wmaaozamiz.github.io/portal/dashboard.html";
+    }
     
 }
 
