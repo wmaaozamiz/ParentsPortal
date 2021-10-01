@@ -2,24 +2,32 @@ function myFunction()
 {
     var un = document.forms["myForm"]["Uname"].value;
     var pw = document.forms["myForm"]["Pass"].value;
-    if(un=="faculty" && pw=="2021")
+
+    //Sample
+    if(un=="sample" && pw=="2021")
     {
-        window.location.href="dashboard.html";
+        window.location.href="https://wmaaozamiz.github.io/ParentsPortal/parents/ParentsPortal.html";
     }
-    if(un=="wmaa" && pw=="apare")
+    //Sample
+    if(un=="#" && pw=="#")
     {
-        window.location.href="student.html";
-    }
-    if(un=="bhem" && pw=="1234")
-    {
-        window.location.href="studentinfo/g9aparebj.html";
-    }
-    if(un=="Reda" && pw=="09051709539")
-    {
-        window.location.href="https://wmaaozamiz.github.io/portal/dashboard.html";
+        window.location.href="#";
     }
     
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 function myFunction2() {
     var x = document.getElementById("myInput");
