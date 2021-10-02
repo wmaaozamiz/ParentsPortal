@@ -8,6 +8,61 @@ function myFunction()
     {
         window.location.href="https://wmaaozamiz.github.io/ParentsPortal/parents/ParentsPortal.html";
     }
+    //Admin
+    if(un=="admin" && pw=="wmaa")
+    {
+        window.location.href="https://wmaaozamiz.github.io/portal/sirbhemdashboard.html";
+    }
+    //Bea
+    if(un=="#" && pw=="#")
+    {
+        window.location.href="https://wmaaozamiz.github.io/portal/maambeadashboard.html";
+    }
+    //Biboy
+    if(un=="#" && pw=="#")
+    {
+        window.location.href="https://wmaaozamiz.github.io/portal/sirbiboydashboard.html";
+    }
+    //Allen
+    if(un=="#" && pw=="#")
+    {
+        window.location.href="https://wmaaozamiz.github.io/portal/maamallendashboard.html";
+    }
+    //Amor
+    if(un=="#" && pw=="#")
+    {
+        window.location.href="https://wmaaozamiz.github.io/portal/maamamordashboard.html";
+    }
+    //Sheila
+    if(un=="#" && pw=="#")
+    {
+        window.location.href="https://wmaaozamiz.github.io/portal/maamsheiladashboard.html";
+    }
+    //Sample
+    if(un=="#" && pw=="#")
+    {
+        window.location.href="#";
+    }
+    //Sample
+    if(un=="#" && pw=="#")
+    {
+        window.location.href="#";
+    }
+    //Sample
+    if(un=="#" && pw=="#")
+    {
+        window.location.href="#";
+    }
+    //Sample
+    if(un=="#" && pw=="#")
+    {
+        window.location.href="#";
+    }
+    //Sample
+    if(un=="#" && pw=="#")
+    {
+        window.location.href="#";
+    }
     //Sample
     if(un=="#" && pw=="#")
     {
