@@ -14,7 +14,7 @@ function myFunction()
         window.location.href="https://wmaaozamiz.github.io/portal/sirbhemdashboard.html";
     }
     //Bea
-    if(un=="#" && pw=="#")
+    if(un=="bealamputi03" && pw=="beajanelle")
     {
         window.location.href="https://wmaaozamiz.github.io/portal/maambeadashboard.html";
     }
